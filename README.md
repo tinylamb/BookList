@@ -15,6 +15,7 @@
 
 	一刷 2014.11.21 - now
 	
+
 	
 ###Shell
 
@@ -23,3 +24,6 @@
 	一刷 2014.11.10 - 2014.11.20
 
 
+* [Linux Shell Scripting Tutorial](http://bash.cyberciti.biz/wiki/index.php?title=Main_Page)
+
+	一刷 2014.11.19 - now
