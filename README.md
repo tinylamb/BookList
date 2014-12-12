@@ -8,12 +8,17 @@
 	一刷 研一
 
 
+###C++
+
+* [Programming: Principles and Practice Using C++](http://book.douban.com/subject/4875599/)
+
+        参考书
 
 ###Python
 
 * [Introduction to Computation and Programming Using Python](http://book.douban.com/subject/20437815/)
 
-	一刷 2014.11.21 - now
+	一刷 2014.11.21 - 2.14.12.12 (未完)
 	
 
 	
